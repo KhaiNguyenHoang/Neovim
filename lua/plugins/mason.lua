@@ -16,8 +16,6 @@ return {
         "dotenv-linter",
 
         "local-lua-debugger-vscode",
-
-        -- install any other package
         "tree-sitter-cli",
         "fish-lsp",
         "gh-actions-language-server",

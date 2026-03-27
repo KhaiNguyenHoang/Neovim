@@ -53,7 +53,14 @@ return {
       detector = {
         "lsp", -- highest priority is getting workspace from running language servers
         { ".git", "_darcs", ".hg", ".bzr", ".svn" }, -- next check for a version controlled parent directory
-        { "lua", "MakeFile", "package.json", "lazy-lock.json", "yazi.toml", "hyprland.conf" }, -- lastly check for known project root files
+        {
+          "lua",
+          "MakeFile",
+          "package.json",
+          "lazy-lock.json",
+          "yazi.toml",
+          "hyprland.conf",
+        }, -- lastly check for known project root files
       },
       ignore = {
         servers = { "taplo" }, -- list of language server names to ignore (Ex. { "efm" })
