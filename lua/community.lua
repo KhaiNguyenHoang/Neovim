@@ -11,7 +11,6 @@ return {
   { import = "astrocommunity.debugging.nvim-dap-virtual-text" },
   { import = "astrocommunity.debugging.persistent-breakpoints-nvim" },
   { import = "astrocommunity.diagnostics.tiny-inline-diagnostic-nvim" },
-  { import = "astrocommunity.editing-support.codecompanion-nvim" },
   { import = "astrocommunity.editing-support.comment-box-nvim" },
   { import = "astrocommunity.editing-support.conform-nvim" },
   { import = "astrocommunity.editing-support.mcphub-nvim" },
