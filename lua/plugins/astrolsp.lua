@@ -10,7 +10,7 @@ return {
     defaults = {},
     -- Configuration table of features provided by AstroLSP
     features = {
-      codelens = true,
+      codelens = false,
       inlay_hints = false,
       semantic_tokens = true,
       signature_help = true,

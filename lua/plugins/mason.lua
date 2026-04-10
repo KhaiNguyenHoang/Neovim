@@ -9,12 +9,10 @@ return {
         "emmet-ls",
         "marksman",
         "yaml-language-server",
-
+        "roslyn",
         "rust-analyzer",
         "stylua",
-
         "dotenv-linter",
-
         "local-lua-debugger-vscode",
         "tree-sitter-cli",
         "fish-lsp",
