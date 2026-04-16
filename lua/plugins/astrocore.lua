@@ -8,7 +8,6 @@
 return {
   "AstroNvim/astrocore",
   version = false,
-  branch = "v3",
   ---@type AstroCoreOpts
   opts = {
     mappings = {
